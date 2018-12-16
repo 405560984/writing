@@ -34,11 +34,12 @@
 
 
 
-# 如何感觉博主讲的还不错： #
+## 如何感觉博主讲的还不错： #
 
-可以关注我的公众号：**苦逼的码农**，推送最新的**原创**技术文章，进入公众号回复**666**送你一份我学习的电子书单！
-
-![](http://pizj3hugp.bkt.clouddn.com/FkNF5tILTvuHKy9hnfcXA8yBNTBn)
+二维码 | 简介
+---|---
+![](http://pizj3hugp.bkt.clouddn.com/FjhvIlCY4iG8ue5akINrW9nfvUDk) | 微信公众号：**苦逼的码农**，推送最新的**原创**技术文章，进入公众号回复**666**送你一份我学习的电子书单
+![](http://pizj3hugp.bkt.clouddn.com/FqnZHdZWXAv2kZ6pInt3vrLSZqik)| Java架构方面的QQ交流学习社区：**822241847**，里面不仅可以交流讨论，还有面试经验分享以及免费的资料下载，包括Spring，MyBatis，Netty源码分析，高并发、高性能、分布式、微服务架构的原理，JVM性能优化这些成为架构师必备的知识体系。相信对于已经工作和遇到技术瓶颈的码友，在这个群里会有你需要的内容
 
 
 
