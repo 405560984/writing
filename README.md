@@ -36,6 +36,8 @@
 
 ## 如何感觉博主讲的还不错： 
 
+![](http://pizj3hugp.bkt.clouddn.com/FjhvIlCY4iG8ue5akINrW9nfvUDk)
+
 二维码 | 简介
 ---|---
 ![微信二维码](http://pizj3hugp.bkt.clouddn.com/FjhvIlCY4iG8ue5akINrW9nfvUDk) | 微信公众号：**苦逼的码农**，推送最新的**原创**技术文章，进入公众号回复**666**送你一份我学习的电子书单
