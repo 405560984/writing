@@ -36,7 +36,6 @@
 
 ## 如何感觉博主讲的还不错： 
 
-![](http://pizj3hugp.bkt.clouddn.com/FjhvIlCY4iG8ue5akINrW9nfvUDk)
 
 二维码 | 简介
 ---|---
