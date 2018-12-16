@@ -3,7 +3,7 @@
 ## :tophat:数据结构与算法 ##
 
 
-好评数据结构与算法文章汇总 | leetcode刷题贴 | 链表问题
+[好评数据结构与算法文章汇总](src/Data_Structure_And_Algorithm.md) | leetcode刷题贴 | 链表问题
 ---|---|---
 
 
