@@ -11,4 +11,3 @@
 9. [集线器、交换机与路由器有什么区别？](https://mp.weixin.qq.com/s/YXWBw3aFTSEFvkg_oN9eQA)
 10. [谈谈NAT：什么？全球IP和私有IP是什么鬼？](https://mp.weixin.qq.com/s/3SCbor4KLgXAEhBJB01Fhw)
 11. [什么？你不知道0.0.0.0和255.255.255.255这两个地址的干嘛的？](https://mp.weixin.qq.com/s/OUz1tH682LSmGtW48olVBg)
-12. [回车与换行的故事](https://mp.weixin.qq.com/s?__biz=MzUxNzg0MDc1Mg==&mid=2247484008&idx=1&sn=f250f85ad54dba210248174e4cc88925&chksm=f9934877cee4c161a22267cd49eb75289f6c0fab1575458c2888f29c0672d14ab5dd622b53a0&scene=21#wechat_redirect)

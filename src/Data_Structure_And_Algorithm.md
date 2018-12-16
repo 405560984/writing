@@ -21,3 +21,5 @@
 16.  [递归与动态规划----基础篇2](https://mp.weixin.qq.com/s?__biz=MzUxNzg0MDc1Mg==&mid=2247483683&idx=1&sn=bf7a0ed38ac4c84f8790fcd761d09391&chksm=f9934b3ccee4c22a0d878a517c00629c9b10ef5ee1a9ff07a5cf19ca491e212c0ddb26997a09&scene=21#wechat_redirect)
 17.  [递归与动态规划---基础篇1](https://mp.weixin.qq.com/s?__biz=MzUxNzg0MDc1Mg==&mid=2247483671&idx=1&sn=ee4510824e709c5d311c68d1e6d75c5c&chksm=f9934b08cee4c21ef837922ddc3e5bd04fee250e132b30c36d2b19dd3e521d48b65eaacf0dcb&scene=21#wechat_redirect)
 18.  [循序渐进带你学习时间复杂度和空间复杂度。](https://mp.weixin.qq.com/s/s33bLhtv54Iy0IAYVWvCSw)
+19.  [【普及了解】什么是神经网络算法？](https://mp.weixin.qq.com/s?__biz=MzUxNzg0MDc1Mg==&mid=2247484315&idx=1&sn=a481262aa79e4191db891e5e7e1b3701&chksm=f9934984cee4c0921cd9f3e1790cb17d534120ea8ead26e4d6d890177f67379bf3969f9463a7&token=2055294156&lang=zh_CN#rd)
+20.  [彩票的数学知识](https://mp.weixin.qq.com/s?__biz=MzUxNzg0MDc1Mg==&mid=2247484239&idx=1&sn=3a174ddf73833e8f351ab65708c55221&chksm=f9934950cee4c04633f671ebb1856f8df8cb7cc64a60d821f178d0cdd6a4c2c34579cd3a3a23&token=2055294156&lang=zh_CN#rd)
