@@ -11,3 +11,7 @@
 9. [集线器、交换机与路由器有什么区别？](https://mp.weixin.qq.com/s/YXWBw3aFTSEFvkg_oN9eQA)
 10. [谈谈NAT：什么？全球IP和私有IP是什么鬼？](https://mp.weixin.qq.com/s/3SCbor4KLgXAEhBJB01Fhw)
 11. [什么？你不知道0.0.0.0和255.255.255.255这两个地址的干嘛的？](https://mp.weixin.qq.com/s/OUz1tH682LSmGtW48olVBg)
+12. [为啥用ip不可以访问知乎，而百度却可以？](https://mp.weixin.qq.com/s?__biz=MzUxNzg0MDc1Mg==&mid=2247485017&idx=1&sn=91d629e656c01a37c6b1b7bab4ccb4f2&chksm=f9934c46cee4c550ddc0e1a64f0c401e7d7bae9ad374bdb13d1203c1428580d9ce50dca70e23&token=1997642097&lang=zh_CN#rd)
+13. [被面试官问到“三次握手，四次挥手”时该怎么回答？](https://mp.weixin.qq.com/s?__biz=MzUxNzg0MDc1Mg==&mid=2247485046&idx=1&sn=13ec03cd361b436daaa8b6b8e6bc7c1a&chksm=f9934c69cee4c57f0c3b5b076419e9cd2dce63b1e90f7ffdeb96a55b42d67cea4065c21e6e4b&token=1997642097&lang=zh_CN#rd)
+14. []()
+15. []()

@@ -11,3 +11,6 @@
 9. [谈谈HashMap、Hashtable和ConcurrenHashMap](https://mp.weixin.qq.com/s?__biz=MzUxNzg0MDc1Mg==&mid=2247483741&idx=1&sn=f1c7a4165b95cc3179325e03fd4a7a19&chksm=f9934b42cee4c2548fbce1158825e72fa04965cfeb9747e6ac688b61f0d985c44e1c4736d2aa&scene=21#wechat_redirect)
 10. [谈谈fail-fast与fail-safe](https://mp.weixin.qq.com/s?__biz=MzUxNzg0MDc1Mg==&mid=2247483734&idx=1&sn=afef78b9769a0d9155e4ce9e620d51f4&chksm=f9934b49cee4c25f6600cd9663f9f6340e68d4e915b5359747decf5b2e353c10e822f289f23f&scene=21#wechat_redirect)
 11. [HashMap的存取原理你知道多少](https://mp.weixin.qq.com/s?__biz=MzUxNzg0MDc1Mg==&mid=2247483727&idx=1&sn=3aadb56486a0aa44125e4cf9251af983&chksm=f9934b50cee4c246db4dc2ad3bf5a689be236820997dc3ddb320e7ac595864982fa38f1523e7&scene=21#wechat_redirect)
+12. [求求你规范下你的代码风格](https://mp.weixin.qq.com/s?__biz=MzUxNzg0MDc1Mg==&mid=2247485028&idx=1&sn=09ea534be019e454171fd1e790f4b79e&chksm=f9934c7bcee4c56dc83268d1537b99c2de78167f2f3f73d98859a5d85aac6e374bbb1f9a97d9&token=1997642097&lang=zh_CN#rd)
+13. [Java这样学，Offer随便拿，学习方法和面试经验分享](https://mp.weixin.qq.com/s?__biz=MzUxNzg0MDc1Mg==&mid=2247485122&idx=1&sn=83bae86b530f2ff42a1c82e7d198795a&chksm=f9934cddcee4c5cb3e142a508e9ed0040f298a8f2c9573db5ea502e5efef6848ab8b55a6800d&token=1997642097&lang=zh_CN#rd)
+14. []()

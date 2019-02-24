@@ -1,0 +1,4 @@
+1. [剑指offer：二维数组中的查找](https://mp.weixin.qq.com/s?__biz=MzUxNzg0MDc1Mg==&mid=2247485166&idx=2&sn=d049aba0b85717ef7a2f5bb523ceeca8&chksm=f9934cf1cee4c5e7b0bef426f0dd3ef1ed5811906af592529e8c2b1e41f63fe53cf80c0c6f0f&token=1997642097&lang=zh_CN#rd)
+2. [剑指offer：重建二叉树](https://mp.weixin.qq.com/s?__biz=MzUxNzg0MDc1Mg==&mid=2247485172&idx=3&sn=18b8460ba3f9d63e9664e81e3fdbfb39&chksm=f9934cebcee4c5fdba05bba542a45fcfae275e1e97628529c5d4ae8e445c0921813d25c6f117&token=1997642097&lang=zh_CN#rd)
+3. [剑指offer：数值的整次数方](https://mp.weixin.qq.com/s?__biz=MzUxNzg0MDc1Mg==&mid=2247485177&idx=3&sn=ccac77da7f5a9ca80d850ac0b49e94d9&chksm=f9934ce6cee4c5f0c3e537a92f14dac466faf744e231c3c8694e6613a8b534902c7cc8e1dcb7&token=1997642097&lang=zh_CN#rd)
+4. [剑指offer：二进制中1的个数](https://mp.weixin.qq.com/s?__biz=MzUxNzg0MDc1Mg==&mid=2247485177&idx=2&sn=9384a61eb84d307e4341e4487d7ec2b2&chksm=f9934ce6cee4c5f0c23135c4a606731c95d4bc34158e021c65524eb5e387e14719f721e94146&token=1997642097&lang=zh_CN#rd)

@@ -1,0 +1,129 @@
+### 前言
+
+以专题的形式更新刷题贴，欢迎跟我一起学习刷题，相信我，你的坚持，绝对会有意想不到的收获。每道题会提供简单的解答，如果你有更优雅的做法，欢迎提供指点，谢谢。
+
+注：如果代码排版出现了问题麻烦通知我下，谢谢。
+
+### 【题目描述】
+
+给定一个单向链表的头结点head,节点的值类型是整型，再给定一个整数privot。实现一个调整链表的函数，将链表调整为左部分都是值小于privot的节点，中间部分都是值等于privot的节点，右部分都是大于privot的节点。且对某部分内部节点的顺序不做要求 
+
+例如:链表9-0-4-5-1，pivot=3。 
+
+调整后是1-0-4-9-5，
+
+也可以是0-1-9-5-4
+
+### 【要求】
+
+如果链表的长度为 N, 时间复杂度达到 O(N)。
+
+### 【难度】
+
+尉：★★☆☆
+
+### 【解答】
+
+这道题在思路上还是比较简单的，但是在实现上还是有一些细节需要主要的。
+
+本题对某部分的内部节点不做要求，一种很简单的方法就是用一个数组来存链表的节点，然后像类似于**快速排序**的分割函数那样，按照某个值把他们进行划分。
+
+不过这样做的话，空间复杂度为 O(N)。我们也可以采取使用3个指针，把原链表依次划分成三个部分的链表，然后再把他们合并起来，这种做法不但空间复杂度为 O(1), 而且内部节点的顺序也是和原链表一样的。虽然思路简单，但在代码实现上也是有很多细节需要注意的，有时间的话希望大家动手打下码。
+
+
+
+**代码如下**
+
+
+```   
+    //用三个指针处理，这道题主要是要注意串联链表时的一些细节处理
+    public static Node listPartition(Node head, int pivot) {
+        Node sB = null;//小的指针头，即small begin
+        Node sE = null;//小的指针尾，即 small end
+        Node eB = null;//中的指针头，即 equal begin
+        Node eE = null;//中的指针尾，即emall end
+        Node bB = null;//大的指针头，即 big begin
+        Node bE = null;//大的指针尾，即 big end
+        Node next = null;//保存下一个节点
+        //进行划分
+        while (head != null) {
+            next = head.next;
+            head.next = null;
+            if (head.value < pivot) {
+                if (sB == null) {
+                    sB = head;
+                    sE = head;
+                } else {
+                    sE.next = head;
+                    sE = sE.next;
+                }
+            } else if (head.value == pivot) {
+                if (eB == null) {
+                    eB = head;
+                    eE = head;
+                } else {
+                    eE.next = head;
+                    eE = eE.next;
+                }
+            } else {
+                if (bB == null) {
+                    bB = head;
+                    bE = head;
+                } else {
+                    bE.next = head;
+                    bE = bE.next;
+                }
+            }
+            head = next;
+        }
+        //把三部分串连起来，串联的时候细节还是挺多的，
+        //串联的过程下面代码的精简程度是最学习的部分了
+        
+        //1.小的与中的串联
+        if (sB != null) {
+            sE.next = eB;
+            eE = eE == null ? sE : eE;
+        }
+        //2.中的和大的连接
+        if (eB != null) {
+            eE.next = bB;
+        }
+        return sB != null ? sB : eB != null ? eB : bB;
+    }
+```
+
+
+### 问题拓展
+
+**思考**：如果给你的是一个环形链表，让你来划分，又该如何实现呢？
+
+### 【题目描述】
+
+无
+
+
+### 【要求】
+
+无
+
+
+### 【难度】
+
+未知。
+
+### 【解答】
+
+无。
+
+
+**往期**
+
+[【链表问题】打卡6：三种方法带你优雅判断回文链表](https://mp.weixin.qq.com/s?__biz=MzUxNzg0MDc1Mg==&mid=2247484876&idx=2&sn=94f50d773f19c3b686557a065a2f5f0f&chksm=f9934fd3cee4c6c52fe57b53b17a576fc3767ff3b0ad4fce8f672bb3e15792fcaf9cdcc05240&token=943604348&lang=zh_CN#rd)
+
+[【链表问题】环形单链表约瑟夫问题](https://mp.weixin.qq.com/s?__biz=MzUxNzg0MDc1Mg==&mid=2247484868&idx=2&sn=65a0e3cc2ede4808307c04c4179103ef&chksm=f9934fdbcee4c6cdad7c90738df7d51561a25c160a760a0b0c3934c3d28a5710df5f0cb55ff0&token=943604348&lang=zh_CN#rd/)
+
+[【链表问题】如何优雅着反转单链表](https://mp.weixin.qq.com/s?__biz=MzUxNzg0MDc1Mg==&mid=2247484857&idx=2&sn=e02aef30d1ec07df8ff6436c6f0e8518&chksm=f9934fa6cee4c6b007c7888358ea84d7bb929c0574ff6f233c49e669c4c13556c19f4f12cb77&token=943604348&lang=zh_CN#rd)
+
+
+
+最后推广下我的公众号：**苦逼的码农**，文章都会首发于我的公众号，期待各路英雄的关注交流。

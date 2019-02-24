@@ -3,9 +3,9 @@
 ## :tophat:数据结构与算法 ##
 
 
-[好评数据结构与算法文章汇总](src/Data_Structure_And_Algorithm.md) | [leetcode刷题贴](src/leetcode.md) | [链表问题](src/Linklist_Problem.md)
----|---|---
-
+[数据结构与算法文章汇总](src/Data_Structure_And_Algorithm.md) | [leetcode刷题贴](src/leetcode.md)
+---|---
+[链表问题](src/Linklist_Problem.md) | [剑指offer](src/coding_interview.md)
 
 
 
@@ -22,6 +22,9 @@
 [Java基础](src/JavaBase.md) | [设计模式](src/Design_Pattern.md)
 ---|---
 
+## :page_facing_up:各类面试题及其答案 ##
+
+[各类面试题汇总及其解答](src/interview_answer.md)
 
 
 ## :computer:工具、视频资源 ##
@@ -39,7 +42,7 @@
 
 二维码 | 简介
 ---|---
-![微信二维码](https://user-gold-cdn.xitu.io/2019/1/19/168665fac589ed71?w=430&h=430&f=png&s=58558) | 微信公众号：**苦逼的码农**，推送最新的**原创**技术文章，进入公众号回复**666**送你一份我学习的电子书单
+![微信公众号二维码](https://user-gold-cdn.xitu.io/2019/2/24/1691f9db4ee0e0cd?w=430&h=430&f=png&s=58558))| 微信公众号：**苦逼的码农**，推送最新的**原创**技术文章，进入公众号回复**666**送你一份我学习的电子书单
 
 
 
