@@ -33,7 +33,7 @@
 
 ## :star:其他推荐阅读 ##
 
-[其他推荐阅读](src/oter.md)
+[其他推荐阅读](src/other.md)
 
 
 
